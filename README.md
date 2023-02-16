@@ -49,25 +49,15 @@
 <br/>
 
 ### ✨ Experience
-- **Asia Education Association: Education Mentoring program for students using artificial intelligence (2021.09 ~ 2022.01)**
+- **College Freshmen Mentor (2023.02 ~ 2024.01)**
   > 🔥 **Activity**  
-  > : Conduct counseling and learning guidance counseling.  
-  > : Support for the management of low-income children, such as emotional counseling.  
-  > : Establish a learning plan after checking the student's learning time and learning contents.
+  > : Conducting community activities.  
+  > : Performs the role of a counselor closest to freshmen's concerns(academic, interpersonal, and school life).  
+  > : Encourage new students to participate in comparative programs and manage attendance in comparative programs.
 
 <br/>
 
-- **Undergraduate Research Intern (2021.03 ~ 2022.12)** 
-  > 🚩 **Location**   
-  > : Intelligent Image Analysis Lab, Department of Computer Engineering (Digital building 235) KIT, KOREA<br/>  
-  > 🔥 **Activity**  
-  > : Participation - AI competitions & awards  
-  > : Development - Business Linkage & Industry-University Cooperation(IUC) project  
-  > : Research - Deep Learning, Computer Vision(Image Analysis), Anomaly Detection, and Metaverse  
-
-<br/>
-
-- **Teaching Assistant(TA) Mentoring Program (2021.09 ~ 2022.12)**
+- **Teaching Assistant(TA) Mentoring (2021.09 ~ 2022.12)**
   > 🔥 **Activity**  
   > : Multimedia Engineering (CD0016-02)  
   > : Assistance to class preparation and organization.  
@@ -76,11 +66,22 @@
 
 <br/>
 
-- **College Freshmen Mentor (2023.02 ~ 2024.01)**
+- **Undergraduate Research Intern (2021.03 ~ 2022.12)** 
+  > 🚩 **Location**   
+  > : Intelligent Image Analysis Lab, Department of Computer Engineering (Digital building 235) KIT, KOREA<br/>  
   > 🔥 **Activity**  
-  > : Conducting community activities.  
-  > : Performs the role of a counselor closest to freshmen's concerns(academic, interpersonal, and school life).  
-  > : Encourage new students to participate in comparative programs and manage attendance in comparative programs.
+  > : Seminar - Lab Project, ML/DL Study  
+  > : Participation - AI competitions & awards  
+  > : Development - Business Linkage & Industry-University Cooperation(IUC) project  
+  > : Research - Deep Learning, Computer Vision(Image Analysis), Anomaly Detection, and Metaverse  
+
+<br/>
+
+- **Asia Education Association: Education Mentoring for students using artificial intelligence (2021.09 ~ 2022.01)**
+  > 🔥 **Activity**  
+  > : Conduct counseling and learning guidance counseling.  
+  > : Support for the management of low-income children, such as emotional counseling.  
+  > : Establish a learning plan after checking the student's learning time and learning contents.
 
 <br/>
 
@@ -100,7 +101,7 @@
 <br/>
 
 ### 🏆 Awards
-- **The Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Silver)" 🥈**
+- **Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Silver)" 🥈**
   > 📅 Day : 2022.12.02  
   > 👪 Paper Author : S. Lee, M. Jeong, J. Si, C. Lee, and S. Kim  
   > 🔖 Paper Title : Development Indoor Bike Racing Game in Virtual Reality Environment  
@@ -108,7 +109,7 @@
 
 <br/>
 
-- **The Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Bronze)" 🥉**
+- **Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Bronze)" 🥉**
   > 📅 Day : 2022.12.02   
   > 👪 Paper Author : J. Jeong, M. Jeong, J. Si and S. Kim  
   > 🔖 Paper Title : Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results   
@@ -116,7 +117,7 @@
 
 <br/>
 
-- **The Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Bronze)" 🥉**
+- **Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Bronze)" 🥉**
   > 📅 Day : 2022.12.02   
   > 👪 Paper Author : M. Jeong, S. Lee, and Y. Jung  
   > 🔖 Paper Title : Design of Chart Recognition Process for Korean Document QA  
@@ -131,7 +132,7 @@
 
 <br/>
 
-- **The Proceedings of the 2022 KIIT Summer Conference College Student Paper Competition - "Excellent Paper Award(Gold)" 🥇**
+- **Proceedings of the 2022 KIIT Summer Conference College Student Paper Competition - "Excellent Paper Award(Gold)" 🥇**
   > 📅 Day : 2022.06.03   
   > 👪 Paper Author : M. Jeong, J. Si, S. Lee, M. Kim, and S. Kim  
   > 🔖 Paper Title : Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm  
@@ -145,7 +146,7 @@
 
 <br/> 
 
-- **The Proceedings of the 2021 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Bronze)" 🥉**
+- **Proceedings of the 2021 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Bronze)" 🥉**
   > 📅 Day : 2021.11.26   
   > 👪 Paper Author : J. Jeong, G. Kim, S. Lee, M. Jeong, J. Si and S.Kim  
   > 🔖 Paper Title : Design of Virtual Electronic Circuit Simulator in Metaverse Environment  
