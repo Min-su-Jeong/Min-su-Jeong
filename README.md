@@ -86,6 +86,8 @@
 <br/>
 
 ### 📖 Publication
+- J. Si, J. Jeong, **M, Jeong**, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+
 - J. Jeong, **M. Jeong**, J. Si and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", Proc. Of Korean Institute of Information Technology Conference, pp.329-330, Dec. 2022.
 
 - **M. Jeong**, S. Lee, and Y. Jung, "Design of Chart Recognition Process for Korean Document QA", Proc. Of Korean Institute of Information Technology Conference, pp.339-340, Dec. 2022.
