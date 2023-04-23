@@ -57,7 +57,7 @@
 
 <br/>
 
-- **Teaching Assistant(TA) Mentoring (2021.09 ~ 2022.12)**
+- **Teaching Assistant(TA) Mentoring (2022.09 ~ 2022.12)**
   > 🔥 **Activity**  
   > : Multimedia Engineering (CD0016-02)  
   > : Assistance to class preparation and organization.  
