@@ -107,7 +107,7 @@
   > 📅 Day : 2022.12.02  
   > 👪 Paper Author : S. Lee, M. Jeong, J. Si, C. Lee, and S. Kim  
   > 🔖 Paper Title : Development Indoor Bike Racing Game in Virtual Reality Environment  
-  > 🏢 Organiztion : Korean Institute of Information Technology(KIIT)
+  > 🏢 Organization : Korean Institute of Information Technology(KIIT)
 
 <br/>
 
@@ -115,7 +115,7 @@
   > 📅 Day : 2022.12.02   
   > 👪 Paper Author : J. Jeong, M. Jeong, J. Si and S. Kim  
   > 🔖 Paper Title : Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results   
-  > 🏢 Organiztion : Korean Institute of Information Technology(KIIT)
+  > 🏢 Organization : Korean Institute of Information Technology(KIIT)
 
 <br/>
 
@@ -123,14 +123,14 @@
   > 📅 Day : 2022.12.02   
   > 👪 Paper Author : M. Jeong, S. Lee, and Y. Jung  
   > 🔖 Paper Title : Design of Chart Recognition Process for Korean Document QA  
-  > 🏢 Organiztion : Korean Institute of Information Technology(KIIT)
+  > 🏢 Organization : Korean Institute of Information Technology(KIIT)
 
 <br/>
 
 - **K-Digital Challenge: 2022 Metaverse Developer Competition(Sector: Student) - "Participation Award" 🏅**
   > 📅 Day : 2022.10.13  
   > 🔖 Work Title : Indoor cycling in a virtual reality environment  
-  > 🏢 Organiztion : MDS Intelligence Inc.
+  > 🏢 Organization : MDS Intelligence Inc.
 
 <br/>
 
@@ -138,13 +138,13 @@
   > 📅 Day : 2022.06.03   
   > 👪 Paper Author : M. Jeong, J. Si, S. Lee, M. Kim, and S. Kim  
   > 🔖 Paper Title : Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm  
-  > 🏢 Organiztion : Korean Institute of Information Technology(KIIT)
+  > 🏢 Organization : Korean Institute of Information Technology(KIIT)
 
 <br/>
 
 - **2021 The World Embedded Software Contest(Sector: Intelligent Humanoid) - "Excellent Award" 🥈**
   > 📅 Day : 2021.12.21  
-  > 🏢 Organiztion : The chairman of the Industrial-Academic Cooperative Foundation
+  > 🏢 Organization : The chairman of the Industrial-Academic Cooperative Foundation
 
 <br/> 
 
@@ -152,16 +152,16 @@
   > 📅 Day : 2021.11.26   
   > 👪 Paper Author : J. Jeong, G. Kim, S. Lee, M. Jeong, J. Si and S.Kim  
   > 🔖 Paper Title : Design of Virtual Electronic Circuit Simulator in Metaverse Environment  
-  > 🏢 Organiztion : Korean Institute of Information Technology(KIIT)
+  > 🏢 Organization : Korean Institute of Information Technology(KIIT)
 
 <br/>
 
 - **2021 Postech Open Innovation Bigdata Challenge - "Final Advance Award" 🏅**
   > 📅 Day : 2021.09.10  
-  > 🏢 Organiztion : POSTECH OIBC
+  > 🏢 Organization : POSTECH OIBC
 
 <br/>
 
 - **2020 Postech Open Innovation Bigdata Challenge -"Excellent Award" 🥈**
   > 📅 Day : 2020.11.19  
-  > 🏢 Organiztion : POSTECH OIBC
+  > 🏢 Organization : POSTECH OIBC
