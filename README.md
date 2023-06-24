@@ -28,7 +28,6 @@
 
 <!-- Most Used Languages & Github Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=min-su-jeong&show_icons=true&locale=en"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=min-su-jeong&show_icons=true&locale=en&layout=compact"/>
 </p>
 
@@ -49,6 +48,14 @@
 <br/>
 
 ### ✨ Experience
+- **C<sup>3</sup> Coding Academy Teacher(Part-time job) (2023.02 ~ 2023.06)**
+  > 🔥 **Activity**  
+  > : Target - Primary school(2nd ~ 6th) ~ Middle school(1st ~ 3rd), College(Freshman)  
+  > : Teaching Contents - Scratch, Smart App Inventor(App Inverntor), Programming(Python, C), AI & Data Science(Python)  
+  > : Teaching basic principles of Arduino and I/O devices, creative app and game creation using mobile devices & app inventor, data analysis using python language, designing an AI program using Teachable Machine.  
+
+<br/>
+
 - **College Freshmen Mentor (2023.02 ~ 2024.01)**
   > 🔥 **Activity**  
   > : Conducting community activities.  
@@ -165,3 +172,8 @@
 - **2020 Postech Open Innovation Bigdata Challenge -"Excellent Award" 🥈**
   > 📅 Day : 2020.11.19  
   > 🏢 Organization : POSTECH OIBC
+
+<br/>
+
+### 💳 Certificate
+- Engineer Information Processing (2023.06.09)
