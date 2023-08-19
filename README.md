@@ -104,6 +104,8 @@
 <br/>
 
 ### 📖 Publication
+- **M. Jeong**, J. Ahn, S. Jo, B. Oh and H. Ahn, "AI-based Jeju Island Traffic Volume Forecasting and Tourist Attraction Recommendation System", Proc. Of Korean Institute of Information Technology Conference, pp.793-796, Jun. 2023.
+  
 - J. Si, J. Jeong, **M, Jeong**, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning", Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
 - J. Jeong, **M. Jeong**, J. Si and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", Proc. Of Korean Institute of Information Technology Conference, pp.329-330, Dec. 2022.
@@ -121,6 +123,12 @@
 <br/>
 
 ### 🏆 Awards
+- **Proceedings of the 2023 KIIT Summer Conference College Student Paper Competition - "Excellent Paper Award(Gold)" 🥇**
+  > 📅 Day : 2023.06.02  
+  > 👪 Paper Author : M. Jeong, J. Ahn, S. Jo, B. Oh and H. Ahn  
+  > 🔖 Paper Title : AI-based Jeju Island Traffic Volume Forecasting and Tourist Attraction Recommendation System  
+  > 🏢 Organization : Korean Institute of Information Technology(KIIT)  
+
 - **Proceedings of the 2022 KIIT Autumnal Conference College Student Paper Competition - "Excellent Paper Award(Silver)" 🥈**
   > 📅 Day : 2022.12.02  
   > 👪 Paper Author : S. Lee, M. Jeong, J. Si, C. Lee, and S. Kim  
