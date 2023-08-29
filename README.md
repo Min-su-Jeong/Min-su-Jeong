@@ -67,7 +67,7 @@
 
 <br/>
 
-- **College Freshmen Mentor (2023.02 ~ 2024.01)**
+- **College Freshmen Mentor (2023.02 ~ 2023.08)**
   > 🔥 **Activity**  
   > : Conducting community activities.  
   > : Performs the role of a counselor closest to freshmen's concerns(academic, interpersonal, and school life).  
