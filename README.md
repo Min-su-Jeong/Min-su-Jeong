@@ -28,7 +28,7 @@
 
 <!-- Most Used Languages & Github Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=min-su-jeong&show_icons=true&locale=en&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=min-su-jeong&hide=csharp,shaderlab&show_icons=true&locale=en&layout=compact"/>
 </p>
 
 
@@ -59,7 +59,7 @@
 <br/>
 
 ### ✨ Experience
-- **C<sup>3</sup> Coding Academy Teacher(Part-time job) (2023.02 ~ 2023.06)**
+- **C<sup>3</sup> Coding Academy Teacher (2023.02 ~ 2023.06)**
   > 🔥 **Activity**  
   > : Target - Primary school(2nd ~ 6th) ~ Middle school(1st ~ 3rd), College(Freshman)  
   > : Teaching Contents - Scratch, Smart App Inventor(App Inverntor), Programming(Python, C), AI & Data Science(Python)  
@@ -123,6 +123,10 @@
 <br/>
 
 ### 🏆 Awards
+- **17th Student Portfolio Competition - "Minister of Education Award (Grand)" 🏆**
+  > 📅 Day : 2023.11.09  
+  > 🏢 Organization : Korea Institute of Engineering Education and Certification
+
 - **Proceedings of the 2023 KIIT Summer Conference College Student Paper Competition - "Excellent Paper Award(Gold)" 🥇**
   > 📅 Day : 2023.06.02  
   > 👪 Paper Author : M. Jeong, J. Ahn, S. Jo, B. Oh and H. Ahn  
