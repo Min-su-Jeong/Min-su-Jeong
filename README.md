@@ -42,6 +42,7 @@
 <br/>
 
 ## Certificate
+- Certified Kubernetes Administrator (CKA) (2026.04)
 - AWS Certified Solutions Architect - Associate (2026.03)
 - SQL 개발자(SQLD) (2025.06)
 - 정보처리기사 (2023.06)
