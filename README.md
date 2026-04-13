@@ -37,6 +37,7 @@
 ## Main Project
 | Project Name | Date | Details |
 |:------------:|:----:|------|
+| [RE:FIT: 취준생을 위한 현직자 채팅 기반 커리어 분석 서비스](https://github.com/100-hours-a-week/19-team-project-wiki/wiki/Cloud-Wiki) | 2025.12 ~ 2026.03 | **클라우드 인프라 구축·운영 및 배포 자동화 담당**<br>- OTel + PLG Stack 기반 멀티 서비스 Observability 구축<br>- kubeadm K8s 자체 구축 및 HPA 자동 확장 운영<br>- Terraform IaC 기반 인프라 전체 코드화<br>- DMS CDC + 카나리 배포 기반 무중단 마이그레이션
 | [S.W.M: 커뮤니티 플랫폼 구축 프로젝트](https://github.com/Min-su-Jeong/3-daniel-jeong-community-BE) | 2025.09 ~ 2025.12 | **REST API·DB 설계부터 운영까지 End-to-End 인프라 구축**<br>- Spring 기반 API·DB 구조 설계<br>- AWS 환경 CI/CD 파이프라인 구축<br>- ASG 롤링 업데이트 기반 무중단 배포
 
 <br/>
